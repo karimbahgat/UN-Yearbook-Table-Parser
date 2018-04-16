@@ -1,0 +1,1 @@
+"xpdf-tools-win-4.00\bin64\pdftopng.exe" -f 36 -l 36 -r 300 -gray "pdfs\SYB5.pdf" "testpng.png" & pause
